@@ -1,0 +1,6 @@
+{
+  "name": "honk-goose",
+  "version": "0.1.0",
+  "description": "A pet goose that waddles above the prompt and reacts to what Claude is doing",
+  "types": "./types/index.d.ts"
+}
